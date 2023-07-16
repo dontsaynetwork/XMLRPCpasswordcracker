@@ -8,3 +8,6 @@ by going to http://www.target-blog.com/wp-json/wp/v2/users.
 This script would then save the password that were succesful into a text file.
 
 This is an ongoing project that requires more testing and validating.
+
+As usual, this script is for educational purposes while I work more on my Python programming skills
+and is not intended for use outside of the educational scope.

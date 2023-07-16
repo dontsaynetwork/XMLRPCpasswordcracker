@@ -6,3 +6,5 @@ will try the same password on a list of login that the user will provide. The lo
 by going to http://www.target-blog.com/wp-json/wp/v2/users.
 
 This script would then save the password that were succesful into a text file.
+
+This is an ongoing project that requires more testing and validating.
